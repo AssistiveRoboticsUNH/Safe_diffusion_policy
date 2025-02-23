@@ -81,6 +81,30 @@ conda install conda-forge::plotly
 conda install conda-forge::pyvista
 ```
 
+
+## 🛠️ Safe Set Generation & Trajectory Synthesis
+
+To generate safe sets and synthesize trajectories, install the required dependencies:
+
+```bash
+git clone https://github.com/real-stanford/diffusion_policy
+conda env create -f conda_environment.yaml
+```
+Copy 
+1. train_object_detector_using_visionencoder.ipynb
+2. safe_image_franka_image_240_320.yaml
+3. safe_train_franka.ipynb
+
+to the diffusion policy folder. 
+
+To train the diffusion policy:
+1. edit safe_image_franka_image_240_320.yaml
+2. run safe_train_franka.ipynb
+
+To train object detector using the same vision encoder:
+
+Run train_object_detector_using_visionencoder.ipynb
+
 ---
 
 ## 💡 Notes
