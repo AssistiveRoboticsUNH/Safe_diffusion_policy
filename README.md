@@ -45,6 +45,14 @@ conda install conda-forge::matplotlib
 pip install carvekit --extra-index-url https://download.pytorch.org/whl/cu113
 ```
 
+### 7️⃣ Install Dependencies
+```bash
+pip install h5py
+pip install scipy
+pip install omegaconf
+pip install dill
+pip install scikit-learn
+```
 ---
 
 ## 📌 Running the Experiment
