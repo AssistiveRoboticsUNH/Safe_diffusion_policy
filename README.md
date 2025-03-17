@@ -131,8 +131,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 👨‍💻 Contributors
 
-- **[Your Name]** – *Maintainer & Developer*
-- **[Other Contributors]** – *Contributors*
+- **[Riad Ahmed]** – *Maintainer & Developer*
+- **[Moniruzzaman Akash]** – *Contributors*
 
 ---
 
