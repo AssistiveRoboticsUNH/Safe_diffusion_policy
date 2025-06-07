@@ -1,0 +1,1 @@
+Namespace(sh_degree=3, distill_feature_dim=32, feature_type='clip_part', source_path='/home/carl_lab/Riad/graspbility/GraspSplats/franka_data', model_path='franka_outputs', images='images', resolution=-1, white_background=False, data_device='cuda', eval=False)
